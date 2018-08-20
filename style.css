@@ -84,12 +84,8 @@ body{
 
 @media only screen and (max-width : 320px) {
    img{
-     width: 100%;
-     height: auto;
+     display: block;
+     max-width: 100%;
    }
 }
 
-.img-responsive {
-  display: block;
-  max-width: 100%;
-}
