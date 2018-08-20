@@ -10,7 +10,7 @@
 
 .center-fit {
   max-width: 100%;
-  max-height: 200vh;
+  max-height: 100vh;
   margin: auto;
 }
 
@@ -30,7 +30,7 @@
 
 .description-section {
   padding-top:8rem; 
-  padding-bottom:5rem; 
+  padding-bottom:15rem; 
 }
 
 .container-margin {
@@ -54,4 +54,25 @@
 .video {
   margin:auto;
   align-content: center;
+}
+
+.scholarship-section {
+  padding-top:8rem; 
+  padding-bottom:5rem; 
+  background:#ef9000;
+}
+
+.float-left {
+  float: left;
+  margin: 4px;
+  padding-right: 2rem;
+}
+
+.scholarship-paragraph {
+  padding-top: 1rem;
+}
+
+.join-us-section {
+  padding-top:8rem; 
+  padding-bottom:5rem; 
 }
